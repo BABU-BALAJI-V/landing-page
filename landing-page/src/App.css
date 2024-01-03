@@ -2,6 +2,9 @@
   margin: 0;
   padding: 0;
   font-family: Arial, sans-serif;
+  background: #e1eec3;  
+  background: -webkit-linear-gradient(to right, #f05053, #e1eec3); 
+  background: linear-gradient(to right, #f05053, #e1eec3);  
 }
 
 section {
@@ -81,3 +84,4 @@ section form input {
   background-color: rgb(59, 52, 52);
   padding: 10px;
 }
+
